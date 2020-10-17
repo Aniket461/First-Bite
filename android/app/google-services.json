@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "579395309805",
+    "firebase_url": "https://recipesearch-70285.firebaseio.com",
+    "project_id": "recipesearch-70285",
+    "storage_bucket": "recipesearch-70285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579395309805:android:5719f2262530411431fce4",
+        "android_client_info": {
+          "package_name": "com.aniket.first_bite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579395309805-uojs6t7hbmgg08c8t0agpgk0g08na24f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aniket.first_bite",
+            "certificate_hash": "0790d0e4982231bd9d606a8c2d8013c982e85b73"
+          }
+        },
+        {
+          "client_id": "579395309805-kj4go29mohlfoq700t9b8f4i6i5ekcid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aniket.first_bite",
+            "certificate_hash": "c9e25539f853a1f9244140c27b8c0a0641abb222"
+          }
+        },
+        {
+          "client_id": "579395309805-r3eu48fu19ur5m47aml3uecigubinoe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEr-x7IFZjeg2dwjBjHw8EaDG6E0NCUXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579395309805-r3eu48fu19ur5m47aml3uecigubinoe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579395309805:android:bbcc8fad679c37ea31fce4",
+        "android_client_info": {
+          "package_name": "com.example.recipe_search"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579395309805-i5vv24o35p1bv2125nve1edmj058ujie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipe_search",
+            "certificate_hash": "aa5dd8ef048cf980c452b08f940607003dc4d29f"
+          }
+        },
+        {
+          "client_id": "579395309805-e7n085e126jos0oo3iiod4q5v3c2u9t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipe_search",
+            "certificate_hash": "0790d0e4982231bd9d606a8c2d8013c982e85b73"
+          }
+        },
+        {
+          "client_id": "579395309805-r3eu48fu19ur5m47aml3uecigubinoe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEr-x7IFZjeg2dwjBjHw8EaDG6E0NCUXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579395309805-r3eu48fu19ur5m47aml3uecigubinoe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
